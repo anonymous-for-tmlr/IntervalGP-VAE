@@ -1,6 +1,6 @@
-# IntervalGP-VAE TMLR Revision Experiments
+# IntervalGP-VAE TMLR Experiments
 
-This repository contains the experimental notebooks used for the TMLR revision of **IntervalGP-VAE**, an uncertainty-aware framework for individual treatment effect estimation with proxy-based latent confounder recovery.
+This repository contains the experimental notebooks used for the TMLR **IntervalGP-VAE**, an uncertainty-aware framework for individual treatment effect estimation with proxy-based latent confounder recovery.
 
 The experiments evaluate IntervalGP-VAE under synthetic, semi-synthetic, ablation, robustness, scalability, and baseline-comparison settings. The main focus is to assess point-estimation accuracy, interval calibration, interval sharpness, latent confounder recovery, robustness to proxy degradation, and computational scalability.
 
